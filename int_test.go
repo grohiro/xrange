@@ -1,8 +1,8 @@
 package xrange
 
 import (
+	xrange "github.com/grohiro/xrange"
 	"testing"
-	"xrange"
 )
 
 func TestNewIntRange(t *testing.T) {
